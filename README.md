@@ -3,12 +3,19 @@ A handheld mining controller for Star Citizen
 
 Parts:
 Arduino Pro Micro: https://www.aliexpress.com/item/32768308647.html
+
 Switches: ON-ON 3-Pin https://www.aliexpress.com/item/4000598302546.html
+
 Power Button: 19mm https://www.aliexpress.com/item/1005003151279874.html?gatewayAdapt=glo2deu
+
 E-Stop: 19mm 3-Pin https://www.aliexpress.com/item/1005003736504591.html?gatewayAdapt=glo2deu
+
 Module Buttons: https://www.aliexpress.com/item/32667944879.html?gatewayAdapt=glo2deu
+
 Slide Potentiometer: ALPS 401547 (RS60112-LIN10K) + ALPS 76561 (KNOPF 4X1,2RT)
+
 Joystick: APEM 3150RAK600
+
 Switch rubber grommets: APEM U598
 
 Front Panel: Order from https://www.schaeffer-ag.de/ (EU) or https://www.frontpanelexpress.com/ (NA)
